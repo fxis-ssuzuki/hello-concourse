@@ -1,0 +1,4 @@
+---
+name: concourse-php-ssuzuki
+path: /tmp/build/put/hello
+memory: 1024M 
